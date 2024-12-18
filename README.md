@@ -62,5 +62,25 @@ This project is a web-based application that processes loan-related data, genera
    ```bash
    python app.py
 
-5. **Access the Application:**
-Open a web browser and navigate to http://127.0.0.1:5000.
+5. **Access the Application:**  
+   Open a web browser and navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000).
+
+
+---
+## Usage
+
+1. **Download the CSV Template:**  
+   Use the "Download Template" button to download the sample CSV format.
+
+2. **Upload Your Data:**  
+   Use the "Upload" button to upload your CSV file.
+
+3. **Process and Visualize:**  
+   The application processes the file, generates visualizations, and creates a downloadable PDF report.
+
+4. **Download Report:**  
+   After processing, download the generated PDF report.
+
+---
+## File Structure
+
