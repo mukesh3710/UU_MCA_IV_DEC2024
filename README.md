@@ -48,3 +48,19 @@ This project is a web-based application that processes loan-related data, genera
    ```bash
    git clone https://github.com/<your-username>/<repository-name>.git
    cd <repository-name>
+
+2. **Set Up a Virtual Environment (Optional but Recommended - Python Version 3.8.5 ):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+3. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the Application:**
+   ```bash
+   python app.py
+
+5. **Access the Application:**
+Open a web browser and navigate to http://127.0.0.1:5000.
