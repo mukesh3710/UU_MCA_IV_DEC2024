@@ -82,5 +82,16 @@ This project is a web-based application that processes loan-related data, genera
    After processing, download the generated PDF report.
 
 ---
-## File Structure
-
+# File Structure
+```plaintext
+|-- app.py                  # Main Flask application
+|-- uploads/                # Directory for uploaded and processed files
+|-- static/                 # Static assets (e.g., CSS, images)
+|   |-- template.csv        # Sample CSV template
+|-- templates/              # HTML templates for Flask
+|   |-- index.html          # Homepage
+|-- visualizations/         # Python scripts for visualization
+|   |-- generate_charts.py  # Generates individual visualizations
+|   |-- convert_png_to_pdf.py # Converts PNG images to PDF
+|-- requirements.txt        # Project dependencies
+|-- README.md               # Project documentation
