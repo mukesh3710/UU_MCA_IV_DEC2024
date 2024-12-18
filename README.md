@@ -83,6 +83,7 @@ This project is a web-based application that processes loan-related data, genera
 
 ---
 # File Structure
+
 ```plaintext
 |-- app.py                  # Main Flask application
 |-- uploads/                # Directory for uploaded and processed files
@@ -95,3 +96,28 @@ This project is a web-based application that processes loan-related data, genera
 |   |-- convert_png_to_pdf.py # Converts PNG images to PDF
 |-- requirements.txt        # Project dependencies
 |-- README.md               # Project documentation
+```
+
+# Visualizations Included
+
+- Correlation Matrix
+- Education vs Loan Status
+- Loan Amount Distributions
+- Applicant Income Distributions
+- Credit History Comparisons
+- Loan Term vs Approval Trends
+- Property Area vs Loan Status
+
+
+# Contributions
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the application.
+
+# Contact
+
+For any queries or feedback, feel free to reach out:
+
+    Email: mukesh3710@gmail.com
+    GitHub: https://github.com/mukesh3710
+
+
