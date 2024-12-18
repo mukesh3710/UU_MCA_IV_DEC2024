@@ -1,0 +1,3 @@
+### Requirement for RHEL9 ###
+dnf install gcc gcc-c++ gcc-gfortran python3-devel make
+pip install -r requirements.txt
