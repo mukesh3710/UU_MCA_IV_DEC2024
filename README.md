@@ -46,7 +46,7 @@ This project is a web-based application that processes loan-related data, genera
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/mukesh3710/UU_MCA_IV_DEC2024.git
    cd <repository-name>
 
 2. **Set Up a Virtual Environment (Optional but Recommended - Python Version 3.8.5 ):**
